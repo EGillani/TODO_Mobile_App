@@ -8,19 +8,20 @@ React Native Mobile application that lets you organize your todo lists and with 
 ## Screenshots
 
   <img
+  alt="Login Screen"
+  width="200"
+  src="/screenshots/loginscreen.png"
+  /> 
+ <img
   alt="Home Screen"
   width="200"
-  src="/screenshots/homescreen.png"
-  /> <img
+  src="/screenshots/homepagewithitems.png"
+  /><img
   alt="Notification Feature"
   width="200"
   src="/screenshots/notification.png"
   />
-   <img
-  alt="User Validation Feature"
-  width="200"
-  src="/screenshots/uservalidation.png"
-  />
+
 
   
 ## Setup
