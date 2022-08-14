@@ -28,7 +28,7 @@ React Native Mobile application that lets you organize your todo lists and with 
 To get the node modules installed, run:
 
 ```shell
-npm install
+expo install
 ```
 
 ## Running the app
