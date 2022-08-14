@@ -9,12 +9,12 @@ React Native Mobile application that lets you organize your todo lists and with 
   <a >
   <img
   alt="Home Screen"
-  width="700"
+  width="300"
   src="/screenshots/homescreen.png"
   />
 <img
   alt="Notification Feature"
-  width="700"
+  width="300"
   src="/screenshots/notification.png"
   />
 </a>
