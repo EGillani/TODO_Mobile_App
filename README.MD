@@ -6,7 +6,7 @@ React Native Mobile application that lets you organize your todo lists and with 
 
 
 ## Screenshots
-<a>
+
   <img
   alt="Home Screen"
   width="200"
@@ -16,7 +16,7 @@ React Native Mobile application that lets you organize your todo lists and with 
   width="200"
   src="/screenshots/notification.png"
   />
-</a>
+
   
 ## Setup
 
