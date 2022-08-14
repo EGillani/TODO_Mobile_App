@@ -1,4 +1,5 @@
 import * as firebase from "firebase";
+//firebase.config.js file removed from public repo 
 import {firebaseConfig} from './firebase.config';
 
 
